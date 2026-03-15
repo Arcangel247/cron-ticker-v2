@@ -1,7 +1,7 @@
 {
   "name": "cron-ticker",
   "version": "1.0.0",
-  "description": "Proyecto base para enseñar GitHub Actions en diplomado",
+  "description": "Proyecto base para enseñar GitHub Actions en diplomado ",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
